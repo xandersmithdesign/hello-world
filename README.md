@@ -1,3 +1,3 @@
 # hello-world
-get some
+get some.
 about myself: i know how to make a repository
